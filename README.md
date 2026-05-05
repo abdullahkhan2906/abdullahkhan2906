@@ -44,8 +44,8 @@ I'm actively building toward a **Cloud/DevOps Engineer** role in 🇩🇪 **Germ
 ---
 
 ## 📊 GitHub Activity
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/apiabdullahkhan2906&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/abdullahkhan2906&layout=compact&theme=github_dark&hide_border=true)
+![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahkhan2906&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahkhan2906&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
